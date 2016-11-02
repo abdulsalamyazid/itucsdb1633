@@ -1,6 +1,7 @@
 applications:
 - services:
-  - ElephantSQL-hr
+  -  ElephantSQL-78
+
   disk_quota: 1024M
   host: itucsdb1633
   name: itucsdb1633
